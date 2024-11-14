@@ -19,7 +19,7 @@
 
 **2. В коде используется ранее обученная модель на датасете MNIST, которую можно найти в закрепе к данному проекту.**
 
-**3. Сылка на выполненую работу в среде google colab: https://colab.research.google.com/drive/1adtpDYXVW-bdG9jWpnLzkv2ZM4HxC5YI#scrollTo=lIY4q-eMANf8** 
+**3. Сылка на выполненую работу в среде google colab: https://colab.research.google.com/drive/1kioO-CXfjhZZ_1JtY9pRTDXxeIJQfelK?usp=sharing#scrollTo=f_trg4iWWC48** 
 
   ---
 
