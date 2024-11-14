@@ -107,9 +107,9 @@ print(f'Accuracy on adversarial examples (DeepFool): {adversarial_accuracy}')
 
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/azsii4/blob/main/screenshot/1.JPG)
 
-![image]()
+![image](https://github.com/Archangel15520/azsii4/blob/main/screenshot/2.JPG)
 
 ```
 # Шаг 4: Сравнение результатов
@@ -147,7 +147,7 @@ print(df_results)
 # print(comparison_text)
 
 ```
-![image]()
+![image](https://github.com/Archangel15520/azsii4/blob/main/screenshot/3.JPG)
 
 # Вывод:
 
